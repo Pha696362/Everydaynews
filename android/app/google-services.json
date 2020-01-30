@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "295244710054",
+    "firebase_url": "https://familynews5.firebaseio.com",
+    "project_id": "familynews5",
+    "storage_bucket": "familynews5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295244710054:android:0460292d2c1f752347f467",
+        "android_client_info": {
+          "package_name": "com.everydaynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295244710054-ua1goha7gkt820nvh776nqjs8gserkds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54_oETcxqRG6I899ITHpCfr0A8hCY9Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295244710054-ua1goha7gkt820nvh776nqjs8gserkds.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295244710054-7eqtb8f0ebj087oibmts7g5v3h21a1jq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Everydaynews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
