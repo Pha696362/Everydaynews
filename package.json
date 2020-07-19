@@ -15,7 +15,7 @@
     "@types/react-native-snap-carousel": "^3.7.4",
     "@types/react-native-vector-icons": "^6.4.4",
     "link": "^0.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mobx": "^5.13.0",
     "mobx-react": "^5.4.4",
     "moment": "^2.24.0",
